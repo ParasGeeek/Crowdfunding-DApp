@@ -1,4 +1,4 @@
-All Rights Reserved to Starkenmann Olivier Ethereum smart contracts for the DAO
+Ethereum smart contracts for the DAO
 
 - Token
     - ERC20
